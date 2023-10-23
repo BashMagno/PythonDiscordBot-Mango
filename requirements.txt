@@ -1,3 +1,5 @@
 ﻿discord.py
 asyncio
 presence
+GitPython
+pysqlite3
